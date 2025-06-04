@@ -1,4 +1,4 @@
-# 2021 Geoscience Expo Data Analysis
+# 2021 Earthscience Expo Data Analysis
 
 This is a final project for the Data Processing course at NTNU's Department of Earth Sciences. It analyzes Facebook insights data from the 2021 Geoscience Expo to evaluate audience engagement and promotion effectiveness.
 
