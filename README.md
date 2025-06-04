@@ -2,6 +2,8 @@
 
 This is a final project for the Data Processing course at NTNU's Department of Earth Sciences. It analyzes Facebook insights data from the 2021 Geoscience Expo to evaluate audience engagement and promotion effectiveness.
 
+📄 **[View Final Report (PDF)](./Hits.pdf)**
+
 ## 🔍 Goals
 
 - Regional interest distribution across Taiwan  
